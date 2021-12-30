@@ -1,0 +1,4 @@
+name: Ping
+version: '${project.version}'
+main: me.adelemphii.ping.Ping
+api-version: 1.16
